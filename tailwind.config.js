@@ -22,7 +22,7 @@ module.exports = {
     fontFamily: {},
     extend: {
       colors: {
-        primary: "#1c1c22",
+        primary: "#111827",
         accent: {
           DEFAULT: "#00FF99",
           hover: "#00e187",

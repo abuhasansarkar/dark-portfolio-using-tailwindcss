@@ -26,7 +26,7 @@ const Header = () => {
         </div>
 
         {/* Mobile Navbar and Hire me button */}
-        <div className="xl:hidden ">
+        <div className="xl:hidden cursor-pointer">
           <MobileNavbar />
         </div>
       </div>
