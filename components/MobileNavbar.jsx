@@ -50,7 +50,7 @@ const MobileNavbar = () => {
         <SheetTrigger asChild>
           <SegmentIcon className="text-accent text-4xl" />
         </SheetTrigger>
-        <SheetContent className="bg-black flex flex-col gap-20 pt-16 items-center">
+        <SheetContent className="bg-[#1D273B] flex flex-col gap-20 pt-16 items-center">
           <div>
             <Link href="/">
               <h1 className="text-4xl font-semibold ">
